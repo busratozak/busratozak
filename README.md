@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @busratozak
-- 👀 I’m interested in Software Quality and Testing
+- ⭐️ Software Quality and Testing Trainee @Tobeto
 - 🌱 I’m currently learning SQL, Python, Selenium
 - ❤️ I love traveling, hiking, photography and music
 - 📫 How to reach me busratozakk@gmail.com
